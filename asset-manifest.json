@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.29407a0d.css",
-    "main.js": "/static/js/main.a183b7ee.js",
-    "static/js/787.b4e7f8ae.chunk.js": "/static/js/787.b4e7f8ae.chunk.js",
-    "index.html": "/index.html",
-    "main.29407a0d.css.map": "/static/css/main.29407a0d.css.map",
-    "main.a183b7ee.js.map": "/static/js/main.a183b7ee.js.map",
-    "787.b4e7f8ae.chunk.js.map": "/static/js/787.b4e7f8ae.chunk.js.map"
+    "main.css": "/Monthly-Expenses-Tracker/static/css/main.29407a0d.css",
+    "main.js": "/Monthly-Expenses-Tracker/static/js/main.1f555d9f.js",
+    "static/js/787.b4e7f8ae.chunk.js": "/Monthly-Expenses-Tracker/static/js/787.b4e7f8ae.chunk.js",
+    "index.html": "/Monthly-Expenses-Tracker/index.html",
+    "main.29407a0d.css.map": "/Monthly-Expenses-Tracker/static/css/main.29407a0d.css.map",
+    "main.1f555d9f.js.map": "/Monthly-Expenses-Tracker/static/js/main.1f555d9f.js.map",
+    "787.b4e7f8ae.chunk.js.map": "/Monthly-Expenses-Tracker/static/js/787.b4e7f8ae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.29407a0d.css",
-    "static/js/main.a183b7ee.js"
+    "static/js/main.1f555d9f.js"
   ]
 }
